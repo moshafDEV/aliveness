@@ -1,7 +1,10 @@
 name: aliveness
 description: "A new Flutter package project."
 version: 1.0.0
-homepage:
+
+homepage: https://github.com/moshafDEV/aliveness
+repository: https://github.com/moshafDEV/aliveness
+issue_tracker: https://github.com/moshafDEV/aliveness/issues
 
 environment:
   sdk: ^3.11.0
